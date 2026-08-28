@@ -40,7 +40,7 @@
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8158</dc:source>
-		<dc:source>https://books.google.com/books?id=d1oWAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false</dc:source>
+		<dc:source>https://books.google.com/books?id=d1oWAAAAYAAJ</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
