@@ -1,0 +1,3 @@
+The Project Gutenberg and HathiTrust Digital Library versions of *Barlasch of the Guard* used to produce this Standard Ebooks offering are based upon later editions of the novel. Those editions differ somewhat from the edition approved by the author during his lifetime and published in 1903. In some instances, those changes amount to just a few words or a single sentence; in others, entire paragraphs may be changed. In preparing this SE edition, I noted changes from the First Edition in chapters 1, 3, 4, 5, 12, 13, 16, and 20. As per SE editorial policy however, this edition reflects the HathiTrust Digital Library scanned pages rather than any earlier or other version.
+
+
