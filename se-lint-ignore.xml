@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-30.xhtml">
+		<ignore code="y-016">
+			<line>57</line>
+			<reason>Represents onomatopoeia (a buzzing sound) rather than an ellipsis or other conventional punctuation; consecutive periods are intentional here, as evidenced by the scans.</reason>
+		</ignore>
+	</file>
+	<file path="local.css">
+		<ignore code="c-002">
+			<line>20</line>
+			<line>21</line>
+			<line>63</line>
+			<line>82</line>
+			<reason>These selectors are part of Standard Ebooks' standard epigraph, verse, and salutation boilerplate CSS and are retained for completeness even though this particular book's content doesn't exercise every pattern they cover (no epigraph-in-header is followed by a sibling element, no verse epigraph has multiple stanzas, and every salutation in this book uses the inline &lt;b epub:type="z3998:salutation"&gt; pattern rather than the standalone &lt;p&gt; pattern).</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
